@@ -23,6 +23,7 @@ The environment configuration connects the deployment to the github-pages enviro
 ## 5. How does this automated deployment improve reliability compared to manual deployment?
 
 Automated deployment makes the process more reliable because the same checks are done each time. It checks the HTML, checks for broken links, and uploads the website automatically. This helps prevent mistakes and saves time compared to manual deployment.
+This also makes it easier to catch problems before the website is updated.
 
 ## 6. What would happen if you pushed code to a different branch, not main?
 
